@@ -6,7 +6,7 @@ $x1=explode(' ,',$x);
 $x2=implode(" ",$x1);
 // print_r($x2);
 
-echo array_search(5,$a,false);
+echo array_search(5,$a);
 
 $b=[
     'one'=>"A",

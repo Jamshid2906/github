@@ -51,3 +51,30 @@ $x = [
 	</table>
 </body>
 </html>
+
+<!-- <?php
+$a = [4,2,6,8,3,10,11,12];
+$c = ["one"=>"Hello","two"=>"Hallo"];
+$b = array_merge($a,$c);
+// $b=array_values($b);
+// $b=array_keys($b);
+print_r($a) ;
+
+print_r($b) ;
+
+$b=array_keys($b);
+
+print_r($b);
+
+print_r($c) ;
+?>
+<?php
+$a=[1,2,3,5,6];
+echo "Hello world";
+for($x=0;$x<count($a);$x++){
+    echo "\n"."$a[$x]";
+}
+foreach($a as $x){
+    echo "\n"."$x";
+}
+?> -->

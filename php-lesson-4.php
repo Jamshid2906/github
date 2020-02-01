@@ -17,4 +17,5 @@ echo "<br>";
 define("GREETING", "Welcome to W3Schools.com!", true);
 // echo rejnkad;
 echo grEeting;
+
 ?>
